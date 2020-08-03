@@ -15,3 +15,6 @@ import CBQ2Printer from 'react-native-q2-printer';
 // TODO: What to do with the module?
 CBQ2Printer;
 ```
+### Methods
+
+## CBQ2Printer.init
